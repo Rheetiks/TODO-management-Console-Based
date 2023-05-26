@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TODO",
+            "request": "launch",
+            "mainClass": "com.dh.TODO.TODO",
+            "projectName": "todo_dd000f98"
+        },
+        {
+            "type": "java",
+            "name": "Launch LMS",
+            "request": "launch",
+            "mainClass": "com.dh.lms.LMS",
+            "projectName": "lms_d9164f6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch LMS",
+            "request": "launch",
+            "mainClass": "LMS",
+            "projectName": "LibraryMS_62637c66"
+        }
+    ]
+}
